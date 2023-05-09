@@ -1,1 +1,1 @@
-# task-1-oasis
+# oasis-task-1
